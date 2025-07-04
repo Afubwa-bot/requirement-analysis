@@ -44,6 +44,27 @@ Review and Approval: Reviewing the documented requirements with stakeholders to 
 Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
+## Types of Requirements.
+
+### Functional Requirements 
+
+** Definition:** Describe what the system should do.
+Examples: 
+- User authentication,
+- property search,
+- booking system,
+- user registration.
+
+### Non-functional Requirements
+
+**Definition:** Describe how the system should perform.
+Examples: 
+- Performance
+- security, 
+- scalability,
+- usability,
+- reliability.
+
 
 
 
